@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="शांति-समृद्धि की आस लाई शुभ दीपावली "
+            android:id="@+id/textView2" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:src="@drawable/a2"
+
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent">
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+        <TextView
+            android:textSize="20dp"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="
+
+कोई दिवाली कहता है तो कोई दीपावली। कोई दीपोत्सव के रूप में जानता है तो कोई रोशनी के त्योहार के रूप में इसे मनाता है।...............
+
+ नाम चाहे कोई भी दें लेकिन इसका एक ही रूप है वह है खुशियां। रोशनी के इस त्योहार में अमीरी गरीबी का दिखावा नजर नहीं आता। सभी एक समान ही दिखते हैं। कार्तिक के अमावस्या के दिन जब घरों की अटारी पर दीपमाला सजाते हैं तो उसकी रोशनी में पूरा घर नहा उठता है और अंधेरा दूर दूर तक नजर नहीं आता। शायद यही कारण है कि इसे दीपोत्सव भी कहते हैं। दीपावली की वैसे तो एक धर्मिक त्योहार की मान्यता है। जैसे हर त्योहार की एक कहानी होती है वैसे इसकी भी एक कहानी है। ध्र्मग्रंथों में मान्यता है कि लंका विजय कर श्रीराम इसी दिन अयोध्या लौटे थे। 14 वर्ष के वनवास, अयोध्या के राजा दशरथ की मौत और उत्तराध्किारी भरत का महल छोड़कर भाई के इंतजार में कुटिया में आश्रय लेने के कारण पूरा राज्य में अंधेरा पसरा हुआ था। शोकाकुल इस माहौल में जब सीता हरण और रावण से यु( की सूचना मिली तो अंधेरा और गहरा हो गया। राम ने लंकाध्पिति रावण का वध् कर लंका विजय की। इस दिन को हम विजय दशमी के रूप में मनाते हैं। इसके बाद वहां का राजपाट सौंपकर राम अयोध्या लौटने लगे। रावण के साथ यु( में जिस जिसने राम का साथ दिया था उसका आभार जताते हुए राम 15 दिन की यात्रा कर 16 वें दिन अयोध्या पहुंचे। वह दिन कार्तिक अमावस्या था। भरत के निर्देश पर पूरे राज्य में दीये जलाए गए। या यूं कहें तो पूरे राज्य में दीपोत्सव मनाया गया। आखिर 14 साल बाद राज्य को उसका सही उत्तराध्किारी मिला था। जो राजा बनने से पहले ही एक बड़े राज्य को जीत चुका था। राम के आगमन की इस तारीख को ही दीपावली या दीपोत्सव के रूप में मनाते हैं। इसके अलावा माना जाता है कि रोशनी में ही ध्न की लक्ष्मी का आगमन होता है। कारोबारी ही नहीं आम लोग भी इस दिन लक्ष्मी की पूजा अर्चना करते हैं। मान्यता के अनुसार घर की सपफाई कर लक्ष्मी की पूजा अर्चना करने से समृ(ि आती है। यह कहानी दीपावली के धर्मिक पहलू को रोशन करती है। लेकिन इसके कई और पहलू भी हैं जो इस त्योहार को महत्वपूर्ण बनाते हैं।"
+            />
+
+        </ScrollView>
+    </LinearLayout>
+
+</LinearLayout>

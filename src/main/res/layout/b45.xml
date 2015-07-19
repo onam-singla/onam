@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp">
+
+
+        <TextView
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="सरकार कर रही वादाखिलाफी
+ "
+            android:id="@+id/textView2" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:src="@drawable/b1"
+
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent">
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="
+
+हमारा हर तरह से विरोध् है। जिस शासनादेश के तहत चकराता रोड का चैड़ीकरण हुआ और जो आश्वासन सरकार द्वारा व्यापारियों को दिए गये थे, सरकार और शासन उस पर कायम रहे। चकराता रोड का व्यवसायीकरण करके सरकार बिल्डर की भूमिका में न आये। चकराता रोड पर जो भवन स्वामी है उसके नक्शे पास किए जाने चाहिए। एमडीडीए सरकार को गुमराह करने का काम बन्द करें।
+
+सये जो हालात बने है उनके पीछे की क्या कहानी है?
+इस रि-डेवलेपमेन्ट प्लान के पीछे बन्दरबांट है। पिछली बहुगुणा सरकार ने प्राइवेट बिल्डरों के साथ मिलकर पैसा कमाने का षड़यन्त्रा रचा। जिन व्यापारियों ने अपना व्यापार चैपट करके सड़क चैड़ीकरण के लिए अपनी दुकानें न्यौछावर कर दी, सरकार उनकी बची सम्पत्ति को प्राइवेट बिल्डरों को बेचने का षड़यन्त्रा रच रही है। सरकार को व्यवसायिक उपयोग के लिए किसी की रोजी-रोटी छीनने का कोई अध्किार नहीं है।
+
+यदि यह व्यापारियों के साथ छल है तो लाभ किसको मिलने जा रहा है?
+एमडीडीए ने इस रि-डेवलेपमेंट प्लान से एक हजार करोड़ रूपये राजस्व उगाने का दावा किया है। जबकि गरीब और मजबूर दुकानदारों, जिनका भरा-पूरा व्यापार चैपट हो गया, की छाती पर बनाये जाने वाले दस मंजिला इमारतों से पिछली कांग्रेस सरकार में शामिल कुछ लोग करोड़पति बनने का ख्वाब देख रहे हैं। यही नहीं इन लोगों ने प्राइवेट बिल्डरों से अनुचित लाभ हासिल कर रखा है तभी वह सब गरीब व्यापारियों की आवाज को दरकिनार करके कोर्ट और मुख्यमंत्राी हरीश रावत को गुमराह कर रहे हैं।
+
+सएमडीडीए तो अपना काम कर रहा है?
+ठीक है, लेकिन सरकार को उस असली नाम को उजागर करना चाहिए जिसने एमडीडीए के साथ मिलकर यह प्लान तैयार किया है। जितने प्रोपफेशनल ढंग से यह प्लान तैयार किया गया है, ऐसा काम प्राध्किरणों का नहीं है। प्राध्किरण सदैव लोक कल्याणकारी योजनाएं बनाते है। एमडीडीए जनता के लिए है बिल्डरों के लाभ के लिए योजना बनाना उसका काम नहीं है।
+
+सरकार ने यदि आपकी बात नहीं मानी तो क्या करेंगे आप?
+सरकार को हमारी बात सुननी पड़ेगी। व्यापारी किसी गलत बात के लिए नहीं बल्कि अपने अस्तित्व के लिए लड़ाई लड़ रहा है। सरकार उसके सम्मान पूर्वक जीने तथा अस्तित्व के अध्किार को नहीं छीन सकती। सरकार ने लिखित रूप में जो वायदा व्यापारियों से किया था उसे निभाना होगा अन्यथा हम पूरे प्रदेश में आन्दोलन करेंगे।
+"/>
+
+        </ScrollView>
+    </LinearLayout>
+
+</LinearLayout>

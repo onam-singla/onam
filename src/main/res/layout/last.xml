@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView
+        android:textSize="30dp"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:text="संपादकीय कार्यालय
+
+क्रॉस चौक, 30 ई. सी. रोड
+
+देहरादून - 248001
+
+फ़ोन-न.- 0135-6066665
+ई-मेल - divyahimgiriddn@gmail.com
+
+
+manufactured by
+o.s developers
+contact no-8979708334
+
+"
+
+
+
+
+
+
+
+
+        />
+
+</RelativeLayout>
